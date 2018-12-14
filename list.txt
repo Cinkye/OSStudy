@@ -1,0 +1,4 @@
+总用量 20
+-rw-r--r-- 1 cinkye cinkye     0 12月 14 14:34 list.txt
+-rwxr-xr-x 1 cinkye cinkye 14000 12月 14 14:26 mycal
+-rw-r--r-- 1 cinkye cinkye   378 12月 14 14:31 mycal.cpp
